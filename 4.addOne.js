@@ -1,4 +1,5 @@
+// Add one to number
 const addOne = (number) => {
-  return number + 10;
+  return number + 1;
 };
 console.log(addOne(1));
