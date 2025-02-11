@@ -9,7 +9,7 @@ console.log(sortArray());
 
 // Array
 const sortString = () => {
-  let letterString = "d a b c"
-  return letterString.split("").sort().join("")
-}
-console.log(sortString())
+  let letterString = "d a b c";
+  return letterString.split("").sort().join("");
+};
+console.log(sortString());
