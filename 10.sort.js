@@ -1,13 +1,13 @@
 // Write a function that sorts an array and another for a string.
 
-// String
+// Array
 const sortArray = () => {
   let letterArray = ["c", "a", "b", "d"];
   return letterArray.sort();
 };
 console.log(sortArray());
 
-// Array
+// String
 const sortString = () => {
   let letterString = "d a b c";
   return letterString.split("").sort().join("");

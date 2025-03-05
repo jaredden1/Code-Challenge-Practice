@@ -1,3 +1,4 @@
+// Write a function that returns hello.
 const sayHello = () => {
   return "Hello";
 };
