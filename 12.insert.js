@@ -28,3 +28,5 @@ insertPosition("Joe", 2);
 
 // Console array
 console.log(nameArray);
+
+// test passed 

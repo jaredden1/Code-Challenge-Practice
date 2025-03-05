@@ -7,3 +7,5 @@ const replaceWord = (oldWord, newWord) => {
 };
 
 console.log(replaceWord("NAME", "James"));
+
+// test passed 

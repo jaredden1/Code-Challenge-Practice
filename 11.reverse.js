@@ -13,3 +13,5 @@ const reverseArray = () => {
   return arrayName.reverse();
 };
 console.log(reverseArray());
+
+// test passed 

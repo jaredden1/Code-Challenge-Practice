@@ -3,3 +3,5 @@ const sayHello = () => {
   return "Hello";
 };
 console.log(sayHello());
+
+// test passed 

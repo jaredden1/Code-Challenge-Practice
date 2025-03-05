@@ -27,3 +27,5 @@ const isString = (value) => {
 console.log(isString("Is this a string?"));
 console.log(isString("What about this?"));
 console.log(isString(1, 2, 3, 4, 5));
+
+// test passed 

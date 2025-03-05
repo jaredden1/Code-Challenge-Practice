@@ -4,3 +4,5 @@ const addOneArr = (numberArr) => {
 };
 let numberArr = [1, 2, 3, 4, 5];
 console.log(addOneArr(numberArr));
+
+// test passed 

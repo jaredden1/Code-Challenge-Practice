@@ -5,3 +5,5 @@ const arrayLength = () => {
 };
 
 console.log(arrayLength());
+
+// test passed 

@@ -17,3 +17,5 @@ const stringLength1 = (string) => {
 // Test cases
 console.log(stringLength1("Try this"));
 console.log(stringLength1("It works better then split/join!"));
+
+// test passed 

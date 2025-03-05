@@ -13,3 +13,5 @@ const sortString = () => {
   return letterString.split("").sort().join("");
 };
 console.log(sortString());
+
+// test passed 

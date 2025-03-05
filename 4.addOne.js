@@ -3,3 +3,5 @@ const addOne = (number) => {
   return number + 1;
 };
 console.log(addOne(1));
+
+// test passed 

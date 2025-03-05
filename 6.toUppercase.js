@@ -4,3 +4,5 @@ const upper = () => {
   return letters.toUpperCase();
 };
 console.log(upper());
+
+// test passed 

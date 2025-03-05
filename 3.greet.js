@@ -9,3 +9,5 @@ const greetTemp = name => {
    return `Hello ${name}` 
 };
 console.log(greetTemp("James"));
+
+// test passed 
